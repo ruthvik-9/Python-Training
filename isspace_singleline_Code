@@ -1,0 +1,34 @@
+# a=''
+# print(a.isspace())
+# b='abcd'
+# print(b.isspace())
+
+'''Space is not allowed or cant be empty in identifier'''
+
+# c=" " 
+# print(c.isidentifier())
+
+# c="abc dsv"
+# print(c.isspace())
+
+# w='.  '
+# w=' .'
+# w=' '
+# w=' .'
+# w='             '
+# print(w.isspace())
+
+# a=3
+# a=22.85
+# a=None
+# a='abc'
+# a=True
+# a_1=False
+# print(type(a),type(a_1))
+
+# a='1ab'
+# b='ab'
+# c='_'
+# d='ac_23'
+# print(a.isidentifier(),b.isidentifier(),c.isidentifier(),d.isidentifier())
+# print(a.isidentifier());print(b.isidentifier());print(c.isidentifier());print(d.isidentifier())
