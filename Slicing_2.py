@@ -1,0 +1,22 @@
+# w='python'
+# print(w[::])
+# print(w[0::2])
+# print(w[::3])
+# print(w[0:5:2])
+# print(w[-1::])
+# print(w[:-1:])
+# print(w[:-2:])
+# print(w[:-1:5])
+# print(w[:-1:4])
+# print(w[::-1])
+# print(w[::-2])
+
+# a='ruthvik'
+# print(a[::])
+# print(a[::1])
+# print(a[::2])
+# print(a[::-1])
+# print(a[::-2])
+# print(a[::-1])
+# print(a[::2])
+# print(a[::3])
